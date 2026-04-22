@@ -1,0 +1,9 @@
+안녕하세요 조정민입니다.
+Hi, I'm Jo.
+
+현재는 SEA:ME 프로그램 참가학생으로서 공부중입니다.
+대형레포에 PR올려보는것이 목표입니다!
+Currently, I'm a student in SEA:ME program.
+My goal is to contribute to a large open source repository!
+
+Wish you all the best!
