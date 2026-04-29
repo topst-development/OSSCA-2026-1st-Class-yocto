@@ -13,7 +13,7 @@
 3. 본인의 branch를 생성할 것  
     branch 이름 템플릿: feature/{한글이름}-dev
 
-4. git에 2Week 디렉토리에 파일 추가하기
+4. branch의 2Week 디렉토리에 파일 추가하기
    - 모임참석 관련 파일 추가
      - 파일 이름 템플릿: yocto3주차off모임참석여부.md
      - 파일 내용에 꼭 들어가야 하는 text: git&yocto-3주차Off모임 =
