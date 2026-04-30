@@ -7,3 +7,5 @@
 이재훈-git&yocto-3주차Off모임=참석
 
 김한슬-git&yocto-3주차Off모임=참석
+
+조정민-git&yocto-3주차Off모임=불가
