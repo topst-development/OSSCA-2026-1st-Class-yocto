@@ -13,3 +13,5 @@
 이주형-git&yocto-3주차Off모임=참석
 
 이주원-git&yocto-3주차Off모임=참석
+
+최재원-git&yocto-3주차Off모임=참석
