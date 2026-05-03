@@ -19,3 +19,5 @@
 이상호-git&yocto-3주차Off모임=참석
 
 장재혁-git&yocto-3주차Off모임=참석
+
+임성현-git&yocto-3주차Off모입=불가
