@@ -23,3 +23,5 @@
 최민우-git&yocto-3주차Off모임=참석
 
 진민성-git&yocto-3주차Off모임=참석
+
+임재윤-git&yocto-3주차Off모임=참석
