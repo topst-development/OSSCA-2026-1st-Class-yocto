@@ -27,3 +27,5 @@
 임재윤-git&yocto-3주차Off모임=참석
 
 유병오-git&yocto-3주차Off모임=참석
+
+강민희-git&yocto-3주차Off모임=참석
