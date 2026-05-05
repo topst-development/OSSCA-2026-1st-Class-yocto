@@ -9,3 +9,6 @@ OSSCA 2026 1st git&Yocto 체험형을 신청해 주셔서 감사합니다.
 
 Discord
 - https://discord.com/channels/973748686238658571/1481560701792423936
+
+Community
+- https://community.topst.ai/c/y/35
