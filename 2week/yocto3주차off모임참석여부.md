@@ -20,4 +20,24 @@
 
 장재혁-git&yocto-3주차Off모임=참석
 
+최민우-git&yocto-3주차Off모임=참석
+
+진민성-git&yocto-3주차Off모임=참석
+
+임재윤-git&yocto-3주차Off모임=참석
+
+유병오-git&yocto-3주차Off모임=참석
+
+강민희-git&yocto-3주차Off모임=참석
+
+최민우-git&yocto-3주차Off모임=참석
+
+진민성-git&yocto-3주차Off모임=참석
+
+임재윤-git&yocto-3주차Off모임=참석
+
+유병오-git&yocto-3주차Off모임=참석
+
+강민희-git&yocto-3주차Off모임=참석
+
 임성현-git&yocto-3주차Off모입=불가
