@@ -33,3 +33,5 @@
 임성현-git&yocto-3주차Off모입=불가
 
 이한건-git&yocto-3주차Off모임=참석
+
+임태후-git&yocto-3주차Off모임=참석
