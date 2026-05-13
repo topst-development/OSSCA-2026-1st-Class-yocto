@@ -44,5 +44,5 @@
 임성현-git&yocto-3주차Off모입=불가
 =======
 이한건-git&yocto-3주차Off모임=참석
->>>>>>> 0ef5f08 (docs: add attendance and merge preference for 이한건)
+
 임태후-git&yocto-3주차Off모임=참석
